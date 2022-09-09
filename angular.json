@@ -24,10 +24,10 @@
             ],
             "styles": [
               "src/styles.css",
-              "proyectofinal/node_modules/bootstrap/dist/css/bootstrap-utilities.css"
+              "node_modules/bootstrap/dist/css/bootstrap-utilities.css"
             ],
             "scripts": [
-              "proyectofinal/node_modules/bootstrap/dist/js/bootstrap.js"
+              "node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
