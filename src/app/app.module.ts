@@ -14,6 +14,8 @@ import { from } from 'rxjs';
 
 import { NgCircleProgressModule } from 'ng-circle-progress';
 import { CirclesComponent } from './componentes/circles/circles.component';
+import { ProyectoComponent } from './componentes/proyecto/proyecto.component';
+import { PiedepagimaComponent } from './componentes/piedepagima/piedepagima.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +27,9 @@ import { CirclesComponent } from './componentes/circles/circles.component';
     AcercademiComponent,
     ExperienciaComponent,
     EstudiosComponent,
-    CirclesComponent
+    CirclesComponent,
+    ProyectoComponent,
+    PiedepagimaComponent
   ],
   imports: [
     BrowserModule,
